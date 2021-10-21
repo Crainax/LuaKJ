@@ -1,0 +1,14 @@
+{
+    "Lua.diagnostics.globals": [
+        "ac",
+        "fs",
+        "base",
+        "war3",
+        "nisdfsoa"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "Lua.workspace.library": [
+        "${3rd}/Jass/library"
+    ],
+    "Lua.workspace.checkThirdParty": false
+}

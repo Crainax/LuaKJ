@@ -1,0 +1,9 @@
+/resource/
+/sound/
+(ppk).lua
+ppk
+/*.w3x
+!/.w3x
+*.dll
+*.exe
+*.w3x
